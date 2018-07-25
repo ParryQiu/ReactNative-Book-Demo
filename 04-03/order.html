@@ -1,0 +1,52 @@
+<!--
+    * 章节: 04-03-10
+    * 用于演示 order 属性的使用
+    * FilePath: /04-03/order.html
+    * @Parry
+-->
+<style type="text/css">
+    .order {
+        display: flex;
+    }
+
+    .order p {
+        flex-grow: 1;
+        flex-shrink: 1;
+    }
+
+    .block13 {
+        order: 13;
+    }
+
+    .block-7 {
+        order: -7;
+    }
+
+    .block9 {
+        order: 9;
+    }
+
+    .block5 {
+        order: 5;
+    }
+</style>
+<div class="order">
+    <p class="block13">One
+        <br>
+        <em>order: 13</em>
+    </p>
+    <p class="block-7">Two
+        <br>
+        <em>order: -7</em>
+    </p>
+    <p class="block9">
+        <strong>Three
+            <br>
+            <em>order: 9</em>
+        </strong>
+    </p>
+    <p class="block5">Four
+        <br>
+        <em>order: 5</em>
+    </p>
+</div>

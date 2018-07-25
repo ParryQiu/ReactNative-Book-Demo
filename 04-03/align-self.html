@@ -1,0 +1,27 @@
+<!--
+    * 章节: 04-03-03
+    * 用于演示 align-self 属性的使用
+    * FilePath: /04-03/align-self.html
+    * @Parry
+-->
+<style type="text/css">
+    .align-self {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .target {
+        /*替换不同的 align-self 属性值，学习不同属性的不同作用*/
+        align-self: stretch;
+    }
+</style>
+<div class="align-self">
+    <p>1</p>
+    <p class="target">Target</p>
+    <p>3</p>
+    <p>4</p>
+    <p>5</p>
+    <div class="line line--default"></div>
+    <div class="line line--red"></div>
+</div>

@@ -1,0 +1,3 @@
+rootProject.name = 'TabBarComponent'
+
+include ':app'

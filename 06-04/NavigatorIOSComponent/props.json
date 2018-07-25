@@ -1,0 +1,24 @@
+{
+    component: function, //当前加载的页面组件
+    title: string, //当前加载的页面组件的标题
+    titleImage: Image.propTypes.source, //标题图片
+    passProps: object, //向加载的页面组件传递的参数
+    backButtonIcon: Image.propTypes.source, //返回按钮的自定义的图标
+    backButtonTitle: string, //返回按钮的自定义的文字标题
+    leftButtonIcon: Image.propTypes.source, //头部左边按钮的图标
+    leftButtonTitle: string, //头部左边按钮的文字标题
+    leftButtonSystemIcon: Object.keys(SystemIcons), //头部左边按钮加载的系统图标
+    onLeftButtonPress: function, //头部左边按钮点击的事件函数
+    rightButtonIcon: Image.propTypes.source, //头部右边按钮的图标
+    rightButtonTitle: string, //头部右边按钮的文字标题
+    rightButtonSystemIcon: Object.keys(SystemIcons), //头部右边按钮加载的系统图标
+    onRightButtonPress: function, //头部右边按钮点击的事件函数
+    wrapperStyle: View.style, //整体导航模块的样式定义
+    navigationBarHidden: bool, //是否隐藏头部的导航栏
+    shadowHidden: bool, //导航栏是否显示阴影
+    tintColor: string, //导航栏按钮的颜色
+    barTintColor: string, //导航栏的颜色
+    barStyle: enum('default', 'black'), //导航栏样式的枚举，可以设置成黑色导航栏
+    titleTextColor: string, //导航栏文字标题的颜色
+    translucent: bool //导航栏是否半透明
+}

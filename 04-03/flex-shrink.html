@@ -1,0 +1,35 @@
+<style type="text/css">
+    .flex-shrink {
+        display: flex;
+        width: 300px;
+        flex-shrink: 2;
+    }
+
+    .target1 {
+        flex-grow: 1;
+        width: 100%;
+    }
+
+    .target2 {
+        flex-shrink: 3;
+        word-break: break-all;
+    }
+
+    .target3 {
+        flex-shrink: 1;
+        word-break: break-all;
+    }
+</style>
+<div class="flex-shrink">
+    <p class="target1">Width
+        <br>
+        <strong>100%</strong>
+        <p class="target2">Shrink
+            <br>
+            <strong>3</strong>
+        </p>
+        <p class="target3">Shrink
+            <br>
+            <strong>1</strong>
+        </p>
+</div>

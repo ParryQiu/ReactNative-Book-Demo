@@ -1,0 +1,7 @@
+rootProject.name = 'JPushDemo'
+
+include ':app', ':jpush-react-native', ':jcore-react-native'
+project(':jpush-react-native').projectDir = new File(rootProject.projectDir, '../node_modules/jpush-react-native/android')
+project(':jcore-react-native').projectDir = new File(rootProject.projectDir, '../node_modules/jcore-react-native/android')
+
+include ':app'
