@@ -1,7 +1,3 @@
-# 书籍链接资源汇总
-
-请参见书籍链接资源汇总站点：[http://rn.parryqiu.com/](http://rn.parryqiu.com/)
-
 # 《React Native 精解与实战》（预售中......）
 
 ![React Native 精解与实战](https://oindk07nf.qnssl.com/book_rn_cover_trans_crop.png?imageView2/2/w/300/q/100)
@@ -12,6 +8,8 @@
 <a href="https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=%E4%BA%9A%E9%A9%AC%E9%80%8A%E7%BD%91%E7%AB%99&url=search-alias%3Daps&field-keywords=React+Native+%E7%B2%BE%E8%A7%A3%E4%B8%8E%E5%AE%9E%E6%88%98&rh=i%3Aaps%2Ck%3AReact+Native+%E7%B2%BE%E8%A7%A3%E4%B8%8E%E5%AE%9E%E6%88%98" target="_blank"><img src="https://oindk07nf.qnssl.com/logo_amazon.jpg?imageView2/3/w/100/h/60/q/100" alt="去亚马逊购买" /></a>
 <a href="https://www.zhihu.com/pub/book/119567387" target="_blank"><img src="https://oindk07nf.qnssl.com/logo_zhihu.png?imageView2/3/w/100/h/60/q/100" alt="去知乎购买" /></a>
 <a href="https://read.douban.com/search?q=ReactNative%E7%B2%BE%E8%A7%A3%E4%B8%8E%E5%AE%9E%E6%88%98" target="_blank"><img src="https://oindk07nf.qnssl.com/logo_douban.png?imageView2/3/w/100/h/60/q/100" alt="去豆瓣购买" /></a>
+
+请参见书籍链接资源汇总站点：[http://rn.parryqiu.com/](http://rn.parryqiu.com/)
 
 本书是我撰写并由机械工业出版社出版，包含 React Native 框架底层原理，以及与 iOS、Android 混合开发案例，精选了大量实例代码，方便读者快速学习。
 
@@ -24,6 +22,7 @@
 本书还同样适合已经在使用 React Native 框架开发移动 App 的朋友，书中很大的篇幅讲解了 React Native 框架的底层原理，可以帮助你更加深入地理解 React Native 框架的本质。而且与 iOS 平台、Android 平台的高阶混合开发部分，完全是代码实战的方式进行了讲解演示，学习起来会更加地直观。
 
 # 书籍配套免费、高质量、超清的视频教程
+
 此视频是书籍的配套视频教程，课程对 React Native 框架的底层原理、组件、API 以及一些第三方组件进行了实战演示讲解，并结合完整项目的设计、开发、打包与发布，进行了知识点的整合实战学习。
 
 建议配合书籍学习，书籍中原理性的东西讲解的比较清晰，而视频教程对于组件、API 等代码实战开发讲解的比较直观。
