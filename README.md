@@ -9,7 +9,7 @@
 <a href="https://www.zhihu.com/pub/book/119567387" target="_blank"><img src="https://oindk07nf.qnssl.com/logo_zhihu.png?imageView2/3/w/100/h/60/q/100" alt="去知乎购买" /></a>
 <a href="https://read.douban.com/search?q=ReactNative%E7%B2%BE%E8%A7%A3%E4%B8%8E%E5%AE%9E%E6%88%98" target="_blank"><img src="https://oindk07nf.qnssl.com/logo_douban.png?imageView2/3/w/100/h/60/q/100" alt="去豆瓣购买" /></a>
 
-请参见书籍链接资源汇总站点：[http://rn.parryqiu.com/](http://rn.parryqiu.com/)
+书籍资源汇总站点：[http://rn.parryqiu.com/](http://rn.parryqiu.com/)
 
 本书是我撰写并由机械工业出版社出版，包含 React Native 框架底层原理，以及与 iOS、Android 混合开发案例，精选了大量实例代码，方便读者快速学习。
 
