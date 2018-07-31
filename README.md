@@ -1,3 +1,21 @@
-# ReactNative-Book-Demo
+# 《React Native 精解与实战》（预售中......）
 
-描述文件待更新...
+![React Native 精解与实战](https://oindk07nf.qnssl.com/book_rn_cover_trans_crop.png?imageView2/2/w/300/q/100)
+
+ <a href="https://search.jd.com/Search?keyword=React%20Native%20%E7%B2%BE%E8%A7%A3%E4%B8%8E%E5%AE%9E%E6%88%98&enc=utf-8&wq=React%20Native%20%E7%B2%BE%E8%A7%A3%E4%B8%8E%E5%AE%9E%E6%88%98&pvid=1e7b3a773195475ca5fa6f9df8cc5591" target="_blank"><img src="https://oindk07nf.qnssl.com/logo_jd.jpg?imageView2/3/w/100/h/60/q/100" alt="去京东购买" /></a>
+<a href="https://s.taobao.com/search?initiative_id=tbindexz_20170306&ie=utf8&spm=a21bo.2017.201856-taobao-item.2&sourceId=tb.index&search_type=item&ssid=s5-e&commend=all&imgfile=&q=React+Native+%E7%B2%BE%E8%A7%A3%E4%B8%8E%E5%AE%9E%E6%88%98&suggest=history_1&_input_charset=utf-8&wq=&suggest_query=&source=suggest" target="_blank"><img src="https://oindk07nf.qnssl.com/logo_taobao.jpg?imageView2/3/w/100/h/60/q/100" alt="去淘宝购买" /></a>
+<a href="http://search.dangdang.com/?key=React%20Native%20%BE%AB%BD%E2%D3%EB%CA%B5%D5%BD&act=input" target="_blank"><img src="https://oindk07nf.qnssl.com/logo_dangdang.jpg?imageView2/3/w/100/h/60/q/100" alt="去当当网购买" /></a>
+<a href="https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=%E4%BA%9A%E9%A9%AC%E9%80%8A%E7%BD%91%E7%AB%99&url=search-alias%3Daps&field-keywords=React+Native+%E7%B2%BE%E8%A7%A3%E4%B8%8E%E5%AE%9E%E6%88%98&rh=i%3Aaps%2Ck%3AReact+Native+%E7%B2%BE%E8%A7%A3%E4%B8%8E%E5%AE%9E%E6%88%98" target="_blank"><img src="https://oindk07nf.qnssl.com/logo_amazon.jpg?imageView2/3/w/100/h/60/q/100" alt="去亚马逊购买" /></a>
+<a href="https://www.zhihu.com/pub/book/119567387" target="_blank"><img src="https://oindk07nf.qnssl.com/logo_zhihu.png?imageView2/3/w/100/h/60/q/100" alt="去知乎购买" /></a>
+<a href="https://read.douban.com/search?q=ReactNative%E7%B2%BE%E8%A7%A3%E4%B8%8E%E5%AE%9E%E6%88%98" target="_blank"><img src="https://oindk07nf.qnssl.com/logo_douban.png?imageView2/3/w/100/h/60/q/100" alt="去豆瓣购买" /></a>
+
+本书是我撰写并由机械工业出版社出版，包含 React Native 框架底层原理，以及与 iOS、Android 混合开发案例，精选了大量实例代码，方便读者快速学习。
+
+主要内容分为两大部分，第一部分「入门」包括第 1 ~ 9 章，介绍 React Native 框架的基本原理与使用方法；第二部分「进阶」包括第 10 ~ 15 章，介绍 React Native 框架的高阶开发与 App 部署相关知识。附录部分剖析了 React Native 的源码，可帮助读者研究 React Native 底层本质，还分享了一些 React Native 框架学习的相关资源。
+
+本书适合大前端、移动 App、混合移动开发人员阅读，深入学习 React Native 框架，掌握通过 React Native 框架开发的程序可以同时部署到 iOS 平台与 Android 平台。
+
+本书同样适合想进入移动 App 开发领域的朋友，你可以从 React Native 框架开发同时接触到 iOS 平台与 Android 平台的开发，并且 React Native 框架的技术门槛比两个原生平台的技术门槛低很多，只需要在你掌握了 HTML、CSS、JavaScript 相关知识点后就可以动手开发跨平台的移动 App。
+
+本书还同样适合已经在使用 React Native 框架开发移动 App 的朋友，书中很大的篇幅讲解了 React Native 框架的底层原理，可以帮助你更加深入地理解 React Native 框架的本质。而且与 iOS 平台、Android 平台的高阶混合开发部分，完全是代码实战的方式进行了讲解演示，学习起来会更加地直观。
+
