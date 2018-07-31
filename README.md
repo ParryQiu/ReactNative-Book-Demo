@@ -1,3 +1,7 @@
+# 书籍链接资源汇总
+
+请参见书籍链接资源汇总站点：[http://rn.parryqiu.com/](http://rn.parryqiu.com/)
+
 # 《React Native 精解与实战》（预售中......）
 
 ![React Native 精解与实战](https://oindk07nf.qnssl.com/book_rn_cover_trans_crop.png?imageView2/2/w/300/q/100)
@@ -18,4 +22,15 @@
 本书同样适合想进入移动 App 开发领域的朋友，你可以从 React Native 框架开发同时接触到 iOS 平台与 Android 平台的开发，并且 React Native 框架的技术门槛比两个原生平台的技术门槛低很多，只需要在你掌握了 HTML、CSS、JavaScript 相关知识点后就可以动手开发跨平台的移动 App。
 
 本书还同样适合已经在使用 React Native 框架开发移动 App 的朋友，书中很大的篇幅讲解了 React Native 框架的底层原理，可以帮助你更加深入地理解 React Native 框架的本质。而且与 iOS 平台、Android 平台的高阶混合开发部分，完全是代码实战的方式进行了讲解演示，学习起来会更加地直观。
+
+# 书籍配套免费、高质量、超清的视频教程
+此视频是书籍的配套视频教程，课程对 React Native 框架的底层原理、组件、API 以及一些第三方组件进行了实战演示讲解，并结合完整项目的设计、开发、打包与发布，进行了知识点的整合实战学习。
+
+建议配合书籍学习，书籍中原理性的东西讲解的比较清晰，而视频教程对于组件、API 等代码实战开发讲解的比较直观。
+
+教程持续更新，以保证你能掌握到最新的 React Native 框架动态，请收藏以便随时查看课程更新。
+
+![书籍配套免费、高质量、超清的视频教程](https://oindk07nf.qnssl.com/react-native-video-cover-v7.jpg)
+
+[立即查看学习视频教程](https://devopen.club/course/reactnative)
 
