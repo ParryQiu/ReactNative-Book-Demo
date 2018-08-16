@@ -1,4 +1,4 @@
-# 《React Native 精解与实战》（预售中......）
+# 《React Native 精解与实战》
 
 ![React Native 精解与实战](https://oindk07nf.qnssl.com/book_rn_cover_trans_crop.png?imageView2/2/w/300/q/100)
 
