@@ -1,6 +1,6 @@
 # 《React Native 精解与实战》
 
-![React Native 精解与实战](https://oindk07nf.qnssl.com/book_rn_cover_trans_crop.png?imageView2/2/w/300/q/100)
+![React Native 精解与实战](https://oindk07nf.qnssl.com/cover-landscape.png)
 
 书籍资源汇总站点：[http://rn.parryqiu.com/](http://rn.parryqiu.com/)
 
