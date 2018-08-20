@@ -1,8 +1,15 @@
 # 《React Native 精解与实战》
 
-![React Native 精解与实战](https://oindk07nf.qnssl.com/cover-landscape.png?v=2)
+![React Native 精解与实战](https://oindk07nf.qnssl.com/cover-landscape.png?v=3)
 
 书籍资源汇总站点：[http://rn.parryqiu.com/](http://rn.parryqiu.com/)
+
+书籍目录大纲：[http://rn.parryqiu.com/#links](http://rn.parryqiu.com/#links)
+
+书籍试读：[http://rn.parryqiu.com/#trialreading](http://rn.parryqiu.com/#trialreading)
+
+书籍正文资源链接：[http://rn.parryqiu.com/#contents](http://rn.parryqiu.com/#contents)
+
 
 # 书籍购买链接
 
