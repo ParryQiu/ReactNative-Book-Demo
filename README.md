@@ -4,11 +4,11 @@
 
 书籍资源汇总站点：[http://rn.parryqiu.com/](http://rn.parryqiu.com/)
 
-书籍目录大纲：[http://rn.parryqiu.com/#links](http://rn.parryqiu.com/#links)
+书籍目录大纲：[http://rn.parryqiu.com/#links](http://rn.parryqiu.com/#contents)
 
 书籍试读：[http://rn.parryqiu.com/#trialreading](http://rn.parryqiu.com/#trialreading)
 
-书籍正文资源链接：[http://rn.parryqiu.com/#contents](http://rn.parryqiu.com/#contents)
+书籍正文资源链接：[http://rn.parryqiu.com/#links](http://rn.parryqiu.com/#links)
 
 
 # 书籍购买链接
