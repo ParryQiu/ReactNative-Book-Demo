@@ -67,7 +67,7 @@ class App extends Component {
       <div>
         <p>父组件的 name：{this.state.name}</p>
         <ChildComponent
-          onChange={(val) => {
+          changeName={(val) => {
           this.handleChangeName(val)
         }}/>
       </div>
