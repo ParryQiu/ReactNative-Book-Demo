@@ -2328,6 +2328,10 @@ istanbul-reports@^1.1.4:
   dependencies:
     handlebars "^4.0.3"
 
+jcore-react-native@^1.2.5:
+  version "1.9.9"
+  resolved "https://registry.yarnpkg.com/jcore-react-native/-/jcore-react-native-1.9.9.tgz#69e37dfef0413f1cb76f0fd8c1f5b2f3c64353a0"
+
 jest-changed-files@^22.2.0:
   version "22.2.0"
   resolved "http://registry.npm.taobao.org/jest-changed-files/download/jest-changed-files-22.2.0.tgz#517610c4a8ca0925bdc88b0ca53bd678aa8d019e"
@@ -2609,6 +2613,10 @@ jest@22.4.2:
   dependencies:
     import-local "^1.0.0"
     jest-cli "^22.4.2"
+
+jpush-react-native@^2.1.11:
+  version "2.9.9"
+  resolved "https://registry.yarnpkg.com/jpush-react-native/-/jpush-react-native-2.9.9.tgz#aab2589a87c69c53e8368366ef602f985db28fb7"
 
 js-tokens@^3.0.0, js-tokens@^3.0.2:
   version "3.0.2"
@@ -3068,8 +3076,8 @@ min-document@^2.19.0:
     dom-walk "^0.1.0"
 
 minimatch@^3.0.0, minimatch@^3.0.2, minimatch@^3.0.3, minimatch@^3.0.4:
-  version "3.0.4"
-  resolved "http://registry.npm.taobao.org/minimatch/download/minimatch-3.0.4.tgz#5166e286457f03306064be5497e8dbb0c3d32083"
+  version "3.1.5"
+  resolved "https://registry.yarnpkg.com/minimatch/-/minimatch-3.1.5.tgz#580c88f8d5445f2bd6aa8f3cadefa0de79fbd69e"
   dependencies:
     brace-expansion "^1.1.7"
 
